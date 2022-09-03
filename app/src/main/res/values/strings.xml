@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Football</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_answer">First answer</string>
+    <string name="second_answer">Second answer</string>
+    <string name="thirst_answer">Third answer</string>
+    <string name="pass">Pass</string>
+    <string name="let_s_play">Let\'s play!</string>
+    <string name="socer_quiz">Socer Quiz</string>
+    <string name="todo">TODO</string>
+    <string name="you_missed">You missed :(</string>
+    <string name="one_more_time">One more time?</string>
+</resources>
